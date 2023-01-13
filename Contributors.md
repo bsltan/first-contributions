@@ -1547,5 +1547,5 @@
 - [Honoris Gratias Ndereyimana. :wink:](https://github.com/nhonorisg/)
 - [Alessandro Saggese 😎](https://github.com/asaggse/)
 - [Vinicius Antunes](https://github.com/vinicius-anp)
-- [Bryan Sultan](https://github.com/bsltan/)
+- [Bryan Sultan](https://github.com/bsltan)
 <!-- prettier-ignore-end -->
